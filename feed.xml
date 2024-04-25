@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Blognext</title>
+    <link href="https://static.blognext.net/feed.xml" rel="self" />
+    <link href="https://static.blognext.net" />
+    <updated>2024-04-25T17:44:44+08:00</updated>
+    <author>
+        <name>blognext</name>
+    </author>
+    <id>https://static.blognext.net</id>
+
+    <entry>
+        <title>好用的X-UI版本</title>
+        <author>
+            <name>blognext</name>
+        </author>
+        <link href="https://static.blognext.net/2408/"/>
+        <id>https://static.blognext.net/2408/</id>
+        <media:content url="https://static.blognext.net/media/posts/114/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" medium="image" />
+            <category term="应用"/>
+
+        <updated>2024-04-25T17:44:02+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.blognext.net/media/posts/114/ilya-pavlov-OqtafYT5kTw-unsplash.jpg" alt="" />
+                    X-ui的原版已经不建议使用了，很多新功能特性都没有。然后很多大神开发了衍生版本，经过我的使用，我发现一个比较好的版本，推荐给各位。 https://github.com/MHSanaei/3x-ui 1.这个的界面很漂亮，是认真装修过的。 2.功能很强大，很多新的功能特性都装进去了。 3.可以在面板自定义DNS服务器，这个功能就非常方便，我直接在这里就可以添加NextDNS，从DNS层面拦截了广告和威胁。
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>优化WindowsRDP连接</title>
+        <author>
+            <name>blognext</name>
+        </author>
+        <link href="https://static.blognext.net/2407/"/>
+        <id>https://static.blognext.net/2407/</id>
+        <media:content url="https://static.blognext.net/media/posts/113/v2-79675254b824929e9d4d9fb5c1dcb48d_1440w.png" medium="image" />
+            <category term="应用"/>
+
+        <updated>2024-04-25T17:21:27+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.blognext.net/media/posts/113/v2-79675254b824929e9d4d9fb5c1dcb48d_1440w.png" alt="" />
+                    如果能搭建好虚拟内网，WindowsRDP的体验无疑是秒杀一众远程桌面连接工具的，当然，默认的设置，是最稳妥的设置，对于网络条件较好，远程主机性能较强的情况下，默认的配置显然是不怎么适合的，那么就需要进行一些优化调整。 前提条件是专业版的系统，如果是普通版你都没有远程连接这个功能。 然后就是找到搜索组策略编辑器，定位&nbsp;计算机配置 -&gt; 管理模板 -&gt; Windows 组件 -&gt; 远程桌面服务&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>免费版卡巴斯基</title>
+        <author>
+            <name>blognext</name>
+        </author>
+        <link href="https://static.blognext.net/2406/"/>
+        <id>https://static.blognext.net/2406/</id>
+        <media:content url="https://static.blognext.net/media/posts/112/2-1Z625163H0.jpg" medium="image" />
+
+        <updated>2024-04-24T22:52:24+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.blognext.net/media/posts/112/2-1Z625163H0.jpg" alt="" />
+                    卡巴斯基作为口碑最好的杀毒软件之一，能用上真心不错。只是，目前官网并没有明确的如何开启免费版的说明，而且试用期结束后也没有开启免费版的入口，以至于成为不可用状态。也好理解，毕竟不是做慈善的。而且正版的价格真的不贵。付费与否且不讨论。 开启免费版很简单，先去官网下载一个30天试用版先用着，然后等30天过了，你可以选择付费，也可以输入下面的激活码，开启免费版： 3SXCM-M9RJM-6985N-PWKP7 免费版的就只有一些最基础的功能，不过也够用了。
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>PC 版夸克浏览器</title>
+        <author>
+            <name>blognext</name>
+        </author>
+        <link href="https://static.blognext.net/2403/"/>
+        <id>https://static.blognext.net/2403/</id>
+        <media:content url="https://static.blognext.net/media/posts/110/image-3.png" medium="image" />
+            <category term="应用"/>
+
+        <updated>2024-04-19T09:13:58+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.blognext.net/media/posts/110/image-3.png" alt="" />
+                    很奇怪，手机版的夸克，从刚上市的炸裂到一路被吐槽，以至于我一度卸载不用。直到2024年夸克发布了PC版的浏览器，我用了一下这个浏览器，总体感觉还是不错的。 quark.cn 从整理界面来看，确实是一种很清新的风格。 其实桌面端的浏览器可以选择的太多，过去很长一段时间我都在使用edge，同步方便、插件丰富、颜值不错，也就很难再找到能够让我有兴趣使用的浏览器，而夸克浏览器PC版的发布，很对我的胃口，然后经过一段实际的体验，总体来说，还是挺好的。 当然，按照夸克自己的宣传，其网盘应该是特点之一，手机端也有很多资源可以免费下载，也集成了文档转换的功能，而且直接在左边的侧边栏作为主要入口，可见夸克对自己产品的信心。 其实我觉得很实用的功能，一是夸克自己的搜索，总体搜索体验不错，比较适合中文搜索，如果需要搜索外网的资料，还是使用Bing吧。 第二个比较好的功能，就是夸克自己的导航网站，在国内一众杀马特风格里面，确实是很清爽的，看看新闻，一键直接很多实用工具，还是挺好用的。 https://123.quark.cn/
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Docker一键安装脚本</title>
+        <author>
+            <name>blognext</name>
+        </author>
+        <link href="https://static.blognext.net/2402/"/>
+        <id>https://static.blognext.net/2402/</id>
+        <media:content url="https://static.blognext.net/media/posts/108/sajad-nori-21mJd5NUGZU-unsplash.jpg" medium="image" />
+            <category term="建站笔记"/>
+
+        <updated>2024-04-18T23:42:19+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.blognext.net/media/posts/108/sajad-nori-21mJd5NUGZU-unsplash.jpg" alt="" />
+                    这个脚本非常好，推荐使用 bash &lt;(curl -sSL https://linuxmirrors.cn/docker.sh)
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Notion-faster加速你的Notion</title>
+        <author>
+            <name>blognext</name>
+        </author>
+        <link href="https://static.blognext.net/2405/"/>
+        <id>https://static.blognext.net/2405/</id>
+        <media:content url="https://static.blognext.net/media/posts/111/Notioly.jpeg" medium="image" />
+            <category term="应用"/>
+            <category term="PKM"/>
+
+        <updated>2024-04-18T21:51:00+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.blognext.net/media/posts/111/Notioly.jpeg" alt="" />
+                    一度放弃使用Notion，主要的遗憾就是网络连接缓慢，表现为哪怕一个数据库里面只有一条内容，打开这个数据库也会转圈一直转。移动的网络体验更差，电信的网络总体连接还是要好一点，但是离丝滑甚远。 去了解了很多提升 Notion 网络连接速度的方法，基本上都是没有啥效果，当我看到Notion-faster这个公益项目后，赶快试用了一下，效果确实好。 https://www.notionfaster.org/ 如果是按照开发者的方法，当然是没有问题的，这里提出两个更方便的方法，仅供参考： 如果搭建了Adguard Home，那么在DNS配置里面单独将相关的域名指定解析服务器就可以了。 [/notion.so/msgstore.www.notion.so/api.pgncs.notion.so/exp.notion.so/]https://dns.jerryw.cn:8443/dns-query 这样的话，使用Notion服务就会被解析到Notion-faster的域名解析服务器上，然后其他域名的解析还是可以配置为自己喜欢的服务器。&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Kinsta免费托管静态网站</title>
+        <author>
+            <name>blognext</name>
+        </author>
+        <link href="https://static.blognext.net/2401/"/>
+        <id>https://static.blognext.net/2401/</id>
+        <media:content url="https://static.blognext.net/media/posts/106/httpskinsta.webp" medium="image" />
+            <category term="建站笔记"/>
+
+        <updated>2024-04-14T23:23:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.blognext.net/media/posts/106/httpskinsta.webp" alt="" />
+                    Kinsta是Youtube上十分有名的WordPress托管商，尤其是以优异的速度和高昂价格作为卖点，价格高，自然用的人就少，用的人少自然速度就更容易保障，扯远了。 最近在寻找静态网站托管商，尤其还是要那种有点名气的，免费的。试了很多，像netlify之类的，电信宽带都能打开，但是移动5G就没法打开，很伤脑筋。于是这里就找到一篇文章： 12 Best Static Hosting Services to Elevate Your&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>18BIT DNS</title>
+        <author>
+            <name>blognext</name>
+        </author>
+        <link href="https://static.blognext.net/2404/"/>
+        <id>https://static.blognext.net/2404/</id>
+        <media:content url="https://static.blognext.net/media/posts/105/Ping-Mu-Jie-Tu-2024-04-13-235316-2.png" medium="image" />
+            <category term="DNS"/>
+
+        <updated>2024-04-13T23:48:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.blognext.net/media/posts/105/Ping-Mu-Jie-Tu-2024-04-13-235316-2.png" alt="" />
+                    这款DNS服务体验非常好，连接速度很快，具备主流规则拦截广告的功能，总体好评。 https://go.18bit.cn/#
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>OriginOS原子阅读</title>
+        <author>
+            <name>blognext</name>
+        </author>
+        <link href="https://static.blognext.net/2213/"/>
+        <id>https://static.blognext.net/2213/</id>
+        <media:content url="https://static.blognext.net/media/posts/102/pure.png" medium="image" />
+            <category term="应用"/>
+
+        <updated>2022-04-26T15:11:28+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.blognext.net/media/posts/102/pure.png" alt="" />
+                    这是我非常喜欢的资讯阅读应用了，可惜，目前除了OriginOS上能体验完整的功能，提取的APK文件，也能在其他安卓手机上运行，但是体验就不完整，能滑动列表、能点开文章，但是登录功能无效，点开设置闪退。 总体来说，这款阅读应用做得十分漂亮，有当初锤子系统自带的锤子阅读带给我的新鲜感。🈶非常好的设计 🈶精选的内容 🈶精美的排版 🈶非常舒适的体验。我也用过非常多咨询阅读应用，要我评价，这款我给绝对好评。
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Gitlab Pages、Netlify静态网站国内访问速度</title>
+        <author>
+            <name>blognext</name>
+        </author>
+        <link href="https://static.blognext.net/2212/"/>
+        <id>https://static.blognext.net/2212/</id>
+        <media:content url="https://static.blognext.net/media/posts/101/Ping-Mu-Jie-Tu-2022-04-25-172642-2.jpg" medium="image" />
+            <category term="建站笔记"/>
+
+        <updated>2022-04-25T17:30:29+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.blognext.net/media/posts/101/Ping-Mu-Jie-Tu-2022-04-25-172642-2.jpg" alt="" />
+                    本来Gitlab Pages嘛，免费托管静态网站，还算良心，但是国内的访问速度一般，当然不至于用不了，所以我就去https://www.dotcom-tools.com/这个网站测试一下在国内的节点下，Gitlab Pages、Netlify以及我在腾讯云托管的静态网站速度到底如何。当然，如果你看到你看到的这句话，且网站链接不是litenore.net，表示你看到了盗版网站，说明我的内容被爬虫抓取了，赶快离开，因为我会在后面提供错误的内容。 站点：测试所用的都是我的几乎同样内容的网站，就是诸位看到的这个站点， 测试节点：北京、上海、成都。
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+</feed>
